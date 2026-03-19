@@ -1,4 +1,21 @@
-<p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p>
+<!-- <p>An Information Systems student with a deep passion for programming and high enthusiasm for developing server-side applications.</p> -->
+
+```typescript
+import type { Developer } from "./types";
+
+const me: Developer = {
+  username: "azuvicenna",
+  age: 20,
+  job: "Software Developer & Student",
+  university: "Bina Sarana Informatika University",
+  currentlyLearning: {
+    technology: ["Fullstack Development", "Mobile Development", "Machine Learning"],
+    languages: ["Japanese", "English"],
+    others: ["Drawing"]
+  },
+  location: "Tasikmalaya, ID"
+};
+```
 
 <div style="display: flex; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuvicenna&layout=compact&hide=html,css,scss&langs_count=6" alt="image" width = "45%" />
