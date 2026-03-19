@@ -10,8 +10,6 @@ const me: Developer = {
   university: "Bina Sarana Informatika University",
   currentlyLearning: {
     technologies: ["Fullstack Development", "Mobile Development", "Machine Learning"],
-    languages: ["Japanese", "English"],
-    others: ["Drawing"]
   },
   location: "Tasikmalaya, ID"
 };
