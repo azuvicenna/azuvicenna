@@ -9,7 +9,7 @@ const me: Developer = {
   job: "Software Developer & Student",
   university: "Bina Sarana Informatika University",
   currentlyLearning: {
-    technologies: ["Fullstack Development", "Mobile Development", "Machine Learning"],
+    technologies: ["Fullstack Development"],
   },
   location: "Tasikmalaya, ID"
 };
