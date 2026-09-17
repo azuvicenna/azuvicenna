@@ -1,5 +1,5 @@
 ```typescript
-import type { Developer } from "./types";
+import type { Developer } from "@/types";
 
 const me: Developer = {
   username: "azuvicenna",
