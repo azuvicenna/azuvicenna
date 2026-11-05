@@ -7,7 +7,7 @@ const me: Developer = {
   role: "Software & Backend Developer",
   location: "Ciamis, Indonesia",
   system: {
-    os: "Windows 11",
+    os: "Windows",
     ide: ["VS Code", "Antigravity"]
   },
   currentlyLearning: {
