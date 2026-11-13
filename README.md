@@ -11,7 +11,7 @@ const me: Developer = {
     ide: ["VS Code", "Antigravity"]
   },
   currentlyLearning: {
-    technologies: ["Software Development""DevOps"],
+    technologies: ["Software Development", "DevOps"],
     languages: ["Japanese"]
   },
 };
